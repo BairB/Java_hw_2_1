@@ -11,7 +11,7 @@
 ## Результаты
 
 1. Тест прошел неудачно
-1. [](https://github.com/BairB/Java_hw_2_1/issues/1)
+1. [Bug](https://github.com/BairB/Java_hw_2_1/issues/1)
 
 ## Общие рекомендации
 
